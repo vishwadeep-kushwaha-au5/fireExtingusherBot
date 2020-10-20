@@ -24,11 +24,7 @@ The typical design of a VAD algorithm is as follows:
 There may be some feedback in this sequence, in which the VAD decision is used to improve the noise estimate in the noise reduction stage, or to adaptively vary the threshold(s). These feedback operations improve the VAD performance in non-stationary noise (i.e. when the noise varies a lot).
 here are many voice detection technique already exists like CMU Sphinx, Julius, kaidi, Bing, SILVIA, Vlingo, Microsoft Tellme, Ask Ziggy, wavelet etc. Among these technique wavelet is used and compressed signal by wavelet technique and which gives better results for lossless compression. Hence we will be using wavelet technique in our project for VAD.
 
-
-                                                     
 The above image show how a voiced signal with significant noise can be treated using Wavelet algorithm.
-
-
 
 (2) Heart-beat/breath detection(Hypothesis)
 	
