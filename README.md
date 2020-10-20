@@ -10,7 +10,7 @@ http://blog.miguelgrinberg.com/post/video-streaming-with-flask
 ### Usage
 1. Install Python dependencies: cv2, flask. (wish that pip install works like a charm)
 2. Run "python main.py".
-3. Navigate the browser to the local webpage.
+3. Navigate the browser to the local webpage(http://localhost:3000).
 
 Audio-based detection
 	Just using imaging processing to detect humans in fire rescue situation won’t be enough. Presence of Fire and smoke induce too much noise in Video streams. We need additional methods which are as reliable in detecting humans.
