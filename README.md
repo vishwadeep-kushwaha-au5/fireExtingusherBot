@@ -17,7 +17,7 @@ Audio-based detection
 One ideal condition will say that human’s are to cry for help when stuck in fire situations.  Audio inputs collected via microphone installed in robot can be processed to identify human speech hence assuring human presence in the scene.
 (1)VAD	
 
-	![VAD](https://ibb.co/fMWGwPP)
+	[VAD] = >  https://ibb.co/fMWGwPP
 
 
 	Voice Activity Detection (VAD), also known as speech activity detection or speech detection, is a technique used in speech processing in which the presence or absence of human speech is detected. The main uses of VAD are in speech coding and speech recognition but we will only use speech recognition here.
